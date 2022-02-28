@@ -65,7 +65,7 @@ This script utilizes the Github API. The Github API will cap a user from making 
 * N/A
 
 # Quick Start
-* For demonstration purposes, refer to '.ipynb'
+* For demonstration purposes, refer to 'Read_TagVersion_Datasets_V4_022322.ipynb'
 
 # Status
 [![Version badge](https://img.shields.io/badge/Python-3.9-blue.svg)](https://shields.io/)
@@ -75,7 +75,7 @@ This script utilizes the Github API. The Github API will cap a user from making 
 Within the download, you will find the following directories and files:
 
 * Data Analytics Tool:
-    > Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
+    > Read_TagVersion_Datasets_V4_022322.ipynb
 * List of Dependencies: 
     > environement.yaml
 
@@ -85,10 +85,6 @@ Within the download, you will find the following directories and files:
 # References
 * N/A
 
-# Versionn:
+# Version:
+* Draft as of 02/23/22
 
-Draft as of 02/23/22
-
-
-
-N/A
