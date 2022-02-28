@@ -3,8 +3,8 @@ Mapping UFS Weather Model Repository Tag Versions to Datasets
 </h1>
 
 <p align="center">
-    <img src="images/header.png" width="600" height="320">
-    <img src="images/header2.png" width="600" height="320">
+    <img src="images/header.png" width="500" height="200">
+    <img src="images/header2.png" width="500" height="200">
 </p>
 
 <h5 align="center">
@@ -78,8 +78,7 @@ Within the download, you will find the following directories and files:
 * Data Analytics Tool:
     > Read_TagVersion_Datasets_V4_022322.ipynb
 * List of Dependencies: 
-    > environement.yaml
-
+    > environment.yaml
 
 # Documentation
 
