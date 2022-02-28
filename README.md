@@ -1,7 +1,21 @@
-# ufs-data2release_version-map
+<h1 align="center">
+Mapping UFS Weather Model Repository Tag Versions to Datasets
+</h1>
 
-UFS Weather Model: Repository Tag Versions to Datasets
-Introduction:
+<p align="center">
+    <img src="images/header.png" width="670" height="320">
+</p>
+
+<h5 align="center">
+    
+[Prerequisites](#Prerequisites) • [Dataset](#Dataset) • [Quick Start](#Quick-Start) • [Status](#Status)
+ • [What's Included](#What's-Included) • [Documentation](#Documentation) • [References](#Creator(s))
+
+</h5>
+
+# About
+
+__Introduction:__
 
 Each unique code release version of NOAA's Unified Forecast System (UFS) weather model repository points to the datasets for which its code release version utilizes. These datasets include the input data required by the UFS weather model and the baseline data required for performing the regression tests of various UFS applications. The names of the datasets are timestamped and hard-coded into each unique code release version framework (aka "Github Tags"). This script will provide users/developers of the UFS weather model repository and its associated repositories a more user friendly way of determining which input and baseline datasets should be utilized for a given code release version of the UFS weather model repository.
 
@@ -35,10 +49,46 @@ Prerequisites:
 
 This script utilizes the Github API. The Github API will cap a user from making N number of requests from its Github server within a narrow window of 1-2 hours, thus it is advise that the user of this script logs in with thier Github credentials when using the Github API to maximize the number of requests they can make from the Github server.
 
-__Version:__
+# Table of Contents
+* [Prerequisites](#Prerequisites)
+* [Dataset](#Dataset)
+* [Quick Start](#Quick-Start)
+* [Status](#Status)
+* [What's Included](#What's-Included)
+* [Documentation](#Documentation)
+* [References](#Creator(s))
+
+# Prerequisites
+* Python 3.9
+
+# Dataset
+* N/A
+
+# Quick Start
+* For demonstration purposes, refer to '.ipynb'
+
+# Status
+[![Version badge](https://img.shields.io/badge/Python-3.9-blue.svg)](https://shields.io/)
+[![Build badge](https://img.shields.io/badge/Build--gray.svg)](https://shields.io/)
+
+# What's Included
+Within the download, you will find the following directories and files:
+
+* Data Analytics Tool:
+    > Analytics_Tool_UFS_Datasets_PI3p2_Demo.ipynb
+* List of Dependencies: 
+    > environement.yaml
+
+
+# Documentation
+
+# References
+* N/A
+
+# Versionn:
 
 Draft as of 02/23/22
 
-__Reference(s):__
+
 
 N/A
