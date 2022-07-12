@@ -4,7 +4,7 @@ Mapping UFS Weather Model Repository Tag Versions to Datasets
 
 <p align="center">
     <img src="images/header2.png" width="500" height="200">
-    <img src="images/header.png" width="450" height="625">
+    <img src="images/header.png" width="475" height="625">
 </p>
 
 <h5 align="center">
