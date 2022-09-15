@@ -54,6 +54,7 @@ This script utilizes the Github API. The Github API will cap a user from making 
 * [Prerequisites](#Prerequisites)
 * [Dataset](#Dataset)
 * [Quick Start](#Quick-Start)
+* [Environment Setup](#Environment-Setup)
 * [Status](#Status)
 * [What's Included](#What's-Included)
 * [Documentation](#Documentation)
